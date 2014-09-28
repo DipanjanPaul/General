@@ -12,7 +12,7 @@
 ## ssh -i ~/.ssh/jaykey.pem ubuntu@HOSTNAME
 ##
 ## sudo su
-## wget http://www.stat.yale.edu/~jay/EC2/InstallR.sh
+## wget https://raw.githubusercontent.com/DipanjanPaul/General/master/InstallR.sh
 ## chmod +x InstallR.sh
 ## ./InstallR.sh
 ##
