@@ -1,0 +1,6 @@
+install.packages("bigmemory", repos="http://cran.us.r-project.org")
+install.packages("foreach", repos="http://cran.us.r-project.org")
+install.packages("iterators", repos="http://cran.us.r-project.org")
+install.packages("doMC", repos="http://cran.us.r-project.org")
+install.packages("doSNOW", repos="http://cran.us.r-project.org")
+install.packages("itertools", repos="http://cran.us.r-project.org")
